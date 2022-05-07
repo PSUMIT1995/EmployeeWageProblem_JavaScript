@@ -16,7 +16,7 @@ else
     console.log("Employee is Present.");
 }
 
-// UC 2 Check for daily wage based on whether the employee is part time or full time present
+// UC 2 Check for daily wage based on whether the employee is part time or full time
 const IS_PART_TIME = 1;
 const IS_FULL_TIME = 2;
 const PART_TIME_HOURS = 4;
